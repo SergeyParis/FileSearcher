@@ -1,0 +1,8 @@
+D:\dev\projects\C#\File Searcher\obj\Debug\File Searcher.csprojResolveAssemblyReference.cache
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.Forms.MainForm.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\Task_3.Properties.ErrorMessages.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\Task_3.Properties.Resources.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.Forms.ResultsForm.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\File Searcher.csproj.GenerateResource.Cache
+D:\dev\projects\C#\File Searcher\obj\Debug\Task 3.exe
+D:\dev\projects\C#\File Searcher\obj\Debug\Task 3.pdb

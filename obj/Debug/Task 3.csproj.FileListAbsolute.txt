@@ -1,0 +1,11 @@
+D:\dev\projects\C#\Homework ITVDN\Task 3\bin\Debug\Task 3.exe.config
+D:\dev\projects\C#\Homework ITVDN\Task 3\bin\Debug\Task 3.exe
+D:\dev\projects\C#\Homework ITVDN\Task 3\bin\Debug\Task 3.pdb
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task_3.Properties.Resources.resources
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task 3.csproj.GenerateResource.Cache
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task 3.exe
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task 3.pdb
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task_3.Forms.ResultsForm.resources
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task_3.Forms.MainForm.resources
+D:\dev\projects\C#\Homework ITVDN\Task 3\obj\Debug\Task_3.Properties.ErrorMessages.resources

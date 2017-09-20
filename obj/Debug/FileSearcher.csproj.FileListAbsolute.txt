@@ -1,0 +1,11 @@
+D:\dev\projects\C#\File Searcher\bin\Debug\FileSearcher.exe.config
+D:\dev\projects\C#\File Searcher\bin\Debug\FileSearcher.exe
+D:\dev\projects\C#\File Searcher\bin\Debug\FileSearcher.pdb
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.Forms.MainForm.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.Properties.ErrorMessages.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.Properties.Resources.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.Forms.ResultsForm.resources
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.exe
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.pdb
+D:\dev\projects\C#\File Searcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
